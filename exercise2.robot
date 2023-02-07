@@ -11,7 +11,7 @@ Exercise2
     Click Text                  Signup / Login
     Verify Text                 Login to your account
     Type Text                   Email Address              jaahwayn98@gmail.com
-    Type Text                   Password    Idiris121212
+    Type Text                   Password    *********
     Click Text                  login
     Click Text                  Delete Account
     Verify Text                 ACCOUNT DELETED!
