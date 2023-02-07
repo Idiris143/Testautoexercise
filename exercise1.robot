@@ -22,9 +22,6 @@ Exercise1
     Verify Text            ACCOUNT CREATED!   
     Click Text             Continue 
 
-                        
-   
-   
 
     Debug On  
     # Select value (Large) from dropdown (Size)
