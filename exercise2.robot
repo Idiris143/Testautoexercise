@@ -6,6 +6,17 @@ Library                     QWeb
 
 Exercise2
     Open Browser            https://automationexercise.com/          chrome
+    #VerifyUrl                  https://automationexercise.com   
+    #VerifyUrl                  https://www.google.com     timeout=2s 
+    Click Text                  Signup / Login
+    Verify Text                 Login to your account
+    Type Text                   Email Address              jaahwayn98@gmail.com
+    Type Text                   Password    Idiris121212
+    Click Text                  login
+    Click Text                  Delete Account
+    Verify Text                 ACCOUNT DELETED!
+    Click Text                  Continue
+
  
                         
    
