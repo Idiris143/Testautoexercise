@@ -21,7 +21,7 @@ exercise6
     Type Text                   Subject     FEEDBACK
     Type Text                   Your Message Here    User-friendly interface: The website should be easy to navigate, with clear and concise menus, and intuitive layout.
     Click Text                  submit
-    Click Text                  Ok
+    Verify Alert Text           Ok
 
 
     Debug On                    # Select value (Large) from dropdown (Size)
